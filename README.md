@@ -1,4 +1,4 @@
-## 👋 Hello World!
+## 👋 Hello Everyone!
 
 I'm **Srisai Pranavi**, a passionate 4th year B.Tech Computer Science student at **QIS College of Engineering and Technology**. With a strong interest in technology, I'm deeply involved in exploring how Artificial Intelligence and data can be used to solve real-world problems. 🚀
 
