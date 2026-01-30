@@ -19,7 +19,6 @@ Designed a self-powered smart footwear solution integrating piezoelectric energy
 
 🗺️ Indoor College Navigation System
 Developed a 2D web-based indoor navigation system using HTML and map APIs to provide real-time path guidance and improve campus navigation efficiency.
----
 
 ## 🌱 Currently Growing In
 
