@@ -6,11 +6,19 @@ As a quick learner with a knack for leadership and communication, I enjoy collab
 
 ---
 
-## 🔧 What I've Built
+What I’ve Built
 
-- 🧭 **AI 3D Navigation System** – Intelligent routing using AI in a 3D virtual space.
-- 🗣️ **Attendance System with Voice Feedback** – Hands-free voice-based solution for recording attendance.
+📄 OCR-Based Document Parsing System
+Developed a web application to extract text from handwritten and printed documents using OCR. Implemented AI-based text correction and formatting to improve accuracy and reduce manual effort.
 
+📊 Data Visualization Dashboards (Amazon Prime & IPL 2022)
+Built interactive dashboards using Power BI and Python to analyze customer response trends, sales insights, and sports performance metrics, enabling data-driven decision-making.
+
+👟 Empower Sole – Smart Shoe for Women’s Security
+Designed a self-powered smart footwear solution integrating piezoelectric energy harvesting, GPS tracking, and a non-lethal safety mechanism to enhance personal security.
+
+🗺️ Indoor College Navigation System
+Developed a 2D web-based indoor navigation system using HTML and map APIs to provide real-time path guidance and improve campus navigation efficiency.
 ---
 
 ## 🌱 Currently Growing In
