@@ -1,6 +1,6 @@
 ## 👋 Hello Everyone!
 
-I'm **Srisai Pranavi**, a passionate 4th year B.Tech Computer Science student at **QIS College of Engineering and Technology**. With a strong interest in technology, I'm deeply involved in exploring how Artificial Intelligence and data can be used to solve real-world problems. 🚀
+I am **Srisai Pranavi**, a passionate 4th year B.Tech Computer Science student at **QIS College of Engineering and Technology**. With a strong interest in technology, I'm deeply involved in exploring how Artificial Intelligence and data can be used to solve real-world problems. 
 
 As a quick learner with a knack for leadership and communication, I enjoy collaborating on impactful projects and continuously pushing the boundaries of my skills.
 
