@@ -95,7 +95,15 @@
 </table>
 
 
+## 🤝 Volunteer Experience
 
+### National Service Scheme (NSS)
+
+🔹 Participated in community service and social development programs.
+
+🔹 Contributed to cleanliness drives, awareness campaigns, and volunteer initiatives.
+
+🔹 Strengthened teamwork, leadership, and communication skills.
 
 
 ## 🏆 Achievements
