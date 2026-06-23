@@ -30,27 +30,23 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Technologies
+### Languages & Concepts
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
-
-### Data Analytics & AI
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?logo=google&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://img.shields.io/badge/SDLC-Software%20Development%20Life%20Cycle-blue" />
 </p>
 
 ### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 
