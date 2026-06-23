@@ -28,24 +28,46 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h3>💻 Languages & Concepts</h3>
 
-### Languages & Concepts
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>SQL
+</td>
+<td align="center">
+🔄<br>SDLC
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-  <img src="https://cdn.simpleicons.org/processwire" width="48" height="48" title="SDLC"/>
-</p>
+<h3>🛠️ Tools & Platforms</h3>
 
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" title="Google Colab"/>
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" title="Jupyter Notebook"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" title="Power BI"/>
-  <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" width="48" height="48" title="Microsoft Office"/>
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/google-colab.png" width="50"/><br>Google Colab
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/jupyter.png" width="50"/><br>Jupyter
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br>Power BI
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="50"/><br>MS Office
+</td>
+</tr>
+</table>
 
 
 
