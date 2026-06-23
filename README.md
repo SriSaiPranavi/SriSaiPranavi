@@ -96,17 +96,7 @@
 
 
 
-## 🚀 Featured Projects
 
-📄 OCR-Based Document Parsing System
-
-📊 Amazon Prime & IPL 2022 Data Visualization Dashboards
-
-👟 EmpowerSole – IoT-Based Smart Shoe for Women's Safety
-
-🗺️ Indoor College Navigation System
-
----
 
 ## 🏆 Achievements
 
