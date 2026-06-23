@@ -44,6 +44,31 @@
 </tr>
 </table>
 
+<h3>🤖 AI / ML & Data Science</h3>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>PyTorch
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/><br>NumPy
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/><br>Scikit-Learn
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="50"/><br>Artificial Intelligence
+</td>
+</tr>
+</table>
+
 <h3>🛠️ Tools & Platforms</h3>
 
 <table>
