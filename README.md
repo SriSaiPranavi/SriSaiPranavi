@@ -32,20 +32,21 @@
 
 ### Languages & Concepts
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql" />
-  <img src="https://img.shields.io/badge/SDLC-Software%20Development%20Life%20Cycle-blue" />
+  <img src="https://cdn.simpleicons.org/processwire" width="48" height="48" title="SDLC"/>
 </p>
 
 ### Tools & Platforms
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" title="Google Colab"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" title="Jupyter Notebook"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" title="Power BI"/>
+  <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" width="48" height="48" title="Microsoft Office"/>
 </p>
+
 
 
 ## 🚀 Featured Projects
