@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🔹 Final-Year B.Tech Computer Science & Engineering Student
+🔹 B.Tech Computer Science & Engineering Student
 
 🔹 Software Engineer Intern with experience in OCR-based document parsing using Python, OpenCV, and Tesseract OCR
 
