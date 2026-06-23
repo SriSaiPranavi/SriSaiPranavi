@@ -1,57 +1,62 @@
-## 👋 Hello Everyone!
+ I'm Sri Sai Pranavi
 
-I am **Srisai Pranavi**, a passionate 4th year B.Tech Computer Science student at **QIS College of Engineering and Technology**. With a strong interest in technology, I'm deeply involved in exploring how Artificial Intelligence and data can be used to solve real-world problems. 
+🎓 Final-Year B.Tech Computer Science & Engineering Student
 
-As a quick learner with a knack for leadership and communication, I enjoy collaborating on impactful projects and continuously pushing the boundaries of my skills.
+💻 Passionate about Software Development, Data Analytics, and Artificial Intelligence
 
----
+🌱 Currently enhancing my skills in Python, Data Analytics, Cloud Computing, and AI/ML
 
-What I’ve Built
+## 🚀 About Me
 
-📄 OCR-Based Document Parsing System
-Developed a web application to extract text from handwritten and printed documents using OCR. Implemented AI-based text correction and formatting to improve accuracy and reduce manual effort.
+🔹 Software Engineer Intern with hands-on experience in OCR-based document parsing using Python, OpenCV, and Tesseract OCR
 
-📊 Data Visualization Dashboards (Amazon Prime & IPL 2022)
-Built interactive dashboards using Power BI and Python to analyze customer response trends, sales insights, and sports performance metrics, enabling data-driven decision-making.
+🔹 Experienced in developing data-driven solutions and interactive Power BI dashboards
 
-👟 Empower Sole – Smart Shoe for Women’s Security
-Designed a self-powered smart footwear solution integrating piezoelectric energy harvesting, GPS tracking, and a non-lethal safety mechanism to enhance personal security.
+🔹 Co-developer of **EmpowerSole**, an IoT-based smart shoe for women's safety with an Indian Patent Application
 
-🗺️ Indoor College Navigation System
-Developed a 2D web-based indoor navigation system using HTML and map APIs to provide real-time path guidance and improve campus navigation efficiency.
+🔹 Cloud Computing Trainee under Infosys Pragati: Path to Future (Cohort 6)
 
-## 🌱 Currently Growing In
+🔹 Active NSS Volunteer with strong teamwork, leadership, and communication skills
 
-### 💡 Technical Skills
-- **Artificial Intelligence**
-- **Python Programming**
-- **Power BI & Data Visualization**
+## 🛠️ Tech Stack
 
-### 🧠 Soft Skills
-- Leadership
-- Communication
-- Team Collaboration (NSS Member)
+**Languages**
 
----
+* Python
+* SQL (Basics)
 
-## 🛠️ My Toolkit
+**Data Analytics & Visualization**
 
-**Languages & Technologies**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+* Power BI
+* Microsoft Excel
 
-**Tools & Platforms**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+**Tools & Platforms**
 
----
+* GitHub
+* VS Code
+* Jupyter Notebook
+* Google Colab
+* Streamlit
 
-## 🤝 Let's Connect!
+**Areas of Interest**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srisai-pranavi-alagara-078074291)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alagarasrisaipranavi@gmail.com)
+* Software Development
+* Data Analytics
+* Artificial Intelligence & Machine Learning
+* Cloud Computing
 
----
+## 🏆 Achievements
 
-⭐ *If you find my work interesting, don't forget to star my repositories!*
+🔹 AICTE – The Rising Stars 2026
+
+🔹 Deloitte Data Analytics Virtual Job Simulation
+
+🔹 Indian Patent Application – EmpowerSole Smart Shoe
+
+## 📫 Connect With Me
+
+📧 [alagarasrisaipranavi@gmail.com](mailto:alagarasrisaipranavi@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/alagara-sri-sai-pranavi](http://www.linkedin.com/in/alagara-sri-sai-pranavi)
+
+🌐 Portfolio: Add your portfolio link here
